@@ -1,0 +1,2 @@
+This is my first RAG project.
+I am learning AI Engineering.

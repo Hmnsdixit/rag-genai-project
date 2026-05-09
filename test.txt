@@ -1,0 +1,2 @@
+RAG (Retrieval-Augmented Generation) is an AI technique where a model first retrieves relevant information from external data sources and then generates accurate answers using that information.
+I am learning AI Engineering.
